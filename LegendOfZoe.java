@@ -87,9 +87,3 @@ public class LegendOfZoe {
         }
     }
 }
-
-//TP1 par Abderrahim Tabta et Guilhem Robert
-//20133680 & 20125535
-
-
-
